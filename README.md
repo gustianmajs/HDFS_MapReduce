@@ -1,4 +1,5 @@
 # HDFS_MapReduce
- Digital Skola Homework - MapReduce
 
-![Result](Secreenshot Result MapReduce.png)
+Digital Skola Homework - MapReduce
+
+![Result](<Screenshot Result MapReduce.png>)
